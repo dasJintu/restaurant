@@ -5,7 +5,7 @@ This is a fictional restaurant website developed using Next.js, Tailwind CSS and
 
 ## Preview
 
-Preview the example live on [Netlify](https://grassfeed.netlify.app/):
+Preview the example live on Netlify: https://grassfeed.netlify.app
 
 
 ## How to use

@@ -1,6 +1,6 @@
 # Grassfed Grill Restaurant
 
-This is a fictional restaurant website developed using Next.js, Tailwind CSS and a tiny bit of Zustand. 
+This is a fictional restaurant website developed using **Next.js**, **Tailwind CSS** and a tiny bit of Zustand. 
 
 
 ## Preview

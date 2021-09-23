@@ -50,6 +50,7 @@ function Description() {
         <Image
           src={image2}
           className="rounded col"
+          placeholder="blur"
           alt="Picture of the author"
         />
       </div>

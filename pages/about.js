@@ -17,7 +17,12 @@ function About() {
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-8 my-20">
         <div className="space-y-4">
-          <Image src={about1} className="w-full" alt="Picture of burger" />
+          <Image
+            src={about1}
+            className="w-full"
+            placeholder="blur"
+            alt="Picture of burger"
+          />
           <h1 className="text-xl font-serif text-gray-700 text-center">
             WE'RE HERE TO SERVE YOU
           </h1>
@@ -27,7 +32,12 @@ function About() {
           </p>
         </div>
         <div className="space-y-4">
-          <Image src={about2} className="w-full" alt="Picture of burger" />
+          <Image
+            src={about2}
+            className="w-full"
+            placeholder="blur"
+            alt="Picture of burger"
+          />
           <h1 className="text-xl font-serif text-gray-700 text-center">
             A FAMILY GATHERING
           </h1>

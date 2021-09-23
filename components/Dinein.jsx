@@ -7,7 +7,7 @@ const Dinein = () => {
         come dine in
       </h2>
       <h1 className="text-3xl font-serif text-gray-800">HOURS & LOCATION</h1>
-      <div className="flex justify-center gap-16 my-8">
+      <div className="grid grid-cols-1 md:grid-cols-3 justify-center gap-16 my-8">
         <div>
           <h2 className="font-serif font-semibold text-red-500 mb-3">
             Monday — Friday

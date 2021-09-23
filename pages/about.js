@@ -15,7 +15,7 @@ function About() {
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut.
       </p>
-      <div className="flex justify-between items-center gap-8 my-20">
+      <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-8 my-20">
         <div className="space-y-4">
           <Image src={about1} className="w-full" alt="Picture of burger" />
           <h1 className="text-xl font-serif text-gray-700 text-center">

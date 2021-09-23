@@ -53,7 +53,7 @@ function Navbar() {
         </ul>
       </nav>
       {menuOpen && (
-        <ul className="container  mb-6 space-y-3 text-center">
+        <ul className="container text-xl  my-6 space-y-3 text-center">
           <li className="text-gray-600 hover:text-red-600 font-semibold">
             <Link href="/">
               <a>Home</a>

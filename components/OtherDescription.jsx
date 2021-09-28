@@ -20,7 +20,7 @@ function OtherDescription() {
             peanuts in the world. Yes we said world.
           </p>
           <p className="text-gray-600  max-w-2xl">
-            ​Come give us a try and see what everyone in Pearland is talking
+            ​Come give us a try and see what everyone in Arizona is talking
             about our meat. We have a full menu of over 10 different handcrafted
             burgers, 5 different ways you can get your fries, 20 milkshake
             flavors, and over 14 sides including Mac & Cheese. So stroll down,
@@ -29,7 +29,7 @@ function OtherDescription() {
           </p>
         </div>
       </div>
-      <div className="text-center bg-fresh-image">
+      <div className="text-center bg-fresh-image bg-center">
         <h1 className="py-28 text-white text-3xl font-serif font-bold">
           WE USE ONLY THE FRESHEST INGREDIENTS
         </h1>

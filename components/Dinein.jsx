@@ -27,9 +27,9 @@ const Dinein = () => {
       </div>
       <div className="mt-20 space-y-2 font-serif font-semibold text-gray-800">
         <h2 className="text-2xl  text-red-500">GRASSFED GRILL</h2>
-        <p>1327 East Halik Street</p>
-        <p>​Pearland, TX 99387</p>
-        <p>​(818) 033-2016</p>
+        <p>1628 Jenna Lane</p>
+        <p>Arizona, AZ 86043</p>
+        <p>​928-399-2443</p>
       </div>
     </div>
   );

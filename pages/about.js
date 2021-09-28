@@ -8,7 +8,7 @@ function About() {
   return (
     <div className="container">
       <h1 className="text-center font-serif mt-24 mb-6 text-4xl font-bold text-gray-800">
-        ONE PATTY AT A TIME
+        About Us
       </h1>
       <p className="text-center text-lg text-gray-600 mb-24">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod

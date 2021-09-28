@@ -14,10 +14,10 @@ function Description() {
         />
         <div className="md:col-span-2 md:pl-20 space-y-6">
           <h2 className="text-2xl font-serif italic text-red-500">
-            always expect
+            flavor explosion
           </h2>
-          <h1 className="text-4xl font-serif text-gray-800">
-            GREAT TASTE, GOOD TIMES
+          <h1 className="text-4xl font-serif text-gray-800 uppercase">
+            The flavors of nature
           </h1>
           <p className="text-gray-600">
             Here at Grassfeed Grills we take pride in the quality of the meat

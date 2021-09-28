@@ -15,9 +15,9 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        "hero-image": "url('/hero.jpeg')",
-        "submenu-image": "url('/submenu.png')",
-        "fresh-image": "url('/fresh.png')",
+        "hero-image": "url('/hero1.jpg')",
+        "submenu-image": "url('/submenu1.jpg')",
+        "fresh-image": "url('/fresh2.jpg')",
       },
     },
   },
